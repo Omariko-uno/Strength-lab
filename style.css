@@ -1,0 +1,98 @@
+.Abs-button{
+    background-color:#7dab07 ;
+    Color:white;
+    padding:13px ;
+    padding-left:26px;
+    padding-right:26px;
+    cursor:pointer;
+    margin-top: 16px;
+    margin-right: 20px;
+    border: 3px solid black; 
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 10px 0 10px #729d04b8;
+    font-size: 18px;
+
+
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size:18px;
+    padding-bottom: 8px;
+
+}
+.Abs-button:hover{
+    color: black;
+    text-decoration: underline;
+    font-size: 22px;
+}
+.container{
+    margin-left:50px;
+}
+
+.para-graph{
+    padding-bottom: 18px;
+   
+    margin-left:50px;
+}
+
+
+body{
+    background: linear-gradient(to right, rgb(55, 54, 54), rgb(12, 12, 12));
+    color: aliceblue;
+}
+.picture {
+     background-size: cover; 
+     width: 40%; 
+     height: 350px; 
+     position: fixed;
+     margin-top: 160px; 
+     margin-left: 20px; 
+
+     top: 0; 
+     right: 0; 
+    margin-right: 10px;
+    border: 6px solid #729d04b8; 
+    border-radius: 20px;
+    box-shadow: 20px 0 20px black;
+ }
+    .picture2 {
+        background-size: cover; 
+        width: 60%; 
+        height: 550px; 
+        position: absolute; 
+        bottom: 0; 
+        right: 0; 
+    }
+     .body-two{
+        background: linear-gradient(to left, rgb(43, 40, 40), rgb(12, 12, 12));
+    }
+    .head-line{
+        margin-top: 200px;
+        margin-left:50px;
+    }
+.Physique h1, .Physique h2{
+    color: #7dab07;
+}
+.Physique h1{
+    font-size: 50px;
+    
+}
+.Physique h2{
+    font-size: 20px;
+    text-decoration:underline;
+
+}
+.Physique{
+    margin-bottom: 30px;
+}
+.mohamed{
+    text-align: center;
+    font-size: 60px;
+    color: #7dab07;
+    border: 6px solid #729d04b8; 
+    border-radius: 20px;
+    box-shadow: 20px 0 20px black;
+}
